@@ -159,7 +159,8 @@ $ns run
  
 # OUTPUT
 
-<img width="1484" height="865" alt="image" src="https://github.com/user-attachments/assets/3018f934-47a3-40f6-97c0-2d78a0537445" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7682a326-8e8d-44ba-b0de-1d87fd72f711" />
+
 
 
 # RESULT
